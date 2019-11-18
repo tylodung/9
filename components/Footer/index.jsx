@@ -68,7 +68,7 @@ class Footer extends React.Component {
             <a href='/tos/privacy'>Privacy</a>
             <a href='/tos'>Terms of service</a>
             <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu { config.siteTitle }</a>
-	    <a href='https://odayaka.vn/'>© Binh ITc. <strong>{ config.sitePhone }</strong></a>
+	    <a href='https://odayaka.vn/'>© Binh IT. <strong>{ config.sitePhone }</strong></a>
           </nav>
         </div>
         </div>
